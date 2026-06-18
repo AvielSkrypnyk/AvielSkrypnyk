@@ -2,22 +2,32 @@
 
 Originally from Ukraine 🇺🇦 → living in the Netherlands 🇳🇱 since 2022  
 
-I like working with **Linux, systems, and clean setups**  
-Focused on understanding how things work and improving them step by step  
+I focus on Linux, systems, and clean setups — understanding how things work and improving them step by step.
 
 ---
 
 ## About Me
-- Final-year **MBO Software Development student**
-- MBO = **Secondary Vocational Education (VET)** (practical, career-focused education)
-- Comparable to:  
-  → vocational college / technical school  
-  → preparation for real-world jobs or applied sciences  
+- Final-year MBO Software Development student  
+  → Secondary Vocational Education (VET), practical and career-focused  
 
-- Working with(and much more):
-  - C#, ASP.NET Core
-  - Angular, Blazor
-  - Linux & CLI workflows
+- Experience with:
+  - C#, ASP.NET Core  
+  - Angular, Blazor  
+  - Linux & CLI workflows  
+
+- Interests:
+  - Backend development  
+  - System configuration & optimization  
+  - Home servers & networking  
+
+---
+
+## Environment & Workflow
+- Windows (primary at work), macOS (school & personal use)  
+- Linux (home servers & personal projects), Asahi Linux (Apple Silicon)  
+- Hyprland (Wayland), setup based on JaKooLit Hyprland-Dots (now maintained by [LinuxBeginnings](https://github.com/LinuxBeginnings))
+- CLI-first workflow, Git, terminal tooling  
+- Catppuccin (Latte & Macchiato) with Peach accent (`f5a97f`)  
 
 ---
 
@@ -32,30 +42,16 @@ Focused on understanding how things work and improving them step by step
   <img src="https://streak-stats.demolab.com?user=AvielSkrypnyk&theme=catppuccin-macchiato&exclude_days=Sun%2CSat&ring=f5a97f&fire=f5a97f&currStreakLabel=f5a97f&currStreakNum=f5a97f" height="180"/>
 </p>
 
----
-
-## Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AvielSkrypnyk&bg_color=24273a&color=f5a97f&line=f5a97f&point=f5a97f)
-
----
-
-## Extra Stats (Commits & Activity)
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=AvielSkrypnyk&theme=catppuccin&title_color=f5a97f&icon_color=f5a97f"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvielSkrypnyk&bg_color=24273a&color=f5a97f&line=f5a97f&point=f5a97f"/>
 </p>
 
-
 ---
 
-## ☕ Personal
+## Personal
 Anime • coffee • matcha • tea  
-Quiet time, thinking, and learning  
-
-Fan of theme:  
-- Catppuccin (Latte & Macchiato)  
-- Peach accent (`f5a97f`)  
 
 ---
 
-## 🖥️ Philosophy
+## Philosophy
 Freedom in technology, deep understanding, clean design.
