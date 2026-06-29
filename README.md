@@ -34,8 +34,8 @@ I focus on Linux, systems, and clean setups — understanding how things work an
 ## Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvielSkrypnyk&show_icons=true&bg_color=24273a&title_color=f5a97f&icon_color=f5a97f&text_color=cad3f5&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvielSkrypnyk&layout=compact&langs_count=12&bg_color=24273a&title_color=f5a97f&text_color=cad3f5&hide_border=true" height="160"/>
+  <img src="./profile/stats.svg" height="160"/>
+  <img src="./profile/top-langs.svg" height="160"/>
 </p>
 
 <p align="center">
