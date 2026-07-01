@@ -20,9 +20,9 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=AvielSkrypnyk&show_icons=true&bg_color=24273a&title_color=f5a97f&icon_color=f5a97f&text_color=cad3f5&hide_border=true
+          options: username=AvielSkrypnyk&show_icons=true&count_private=true&bg_color=24273a&title_color=f5a97f&icon_color=f5a97f&text_color=cad3f5&hide_border=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Generate Top Languages Card
         uses: readme-tools/github-readme-stats-action@v1
@@ -30,7 +30,7 @@ jobs:
           card: top-langs
           options: username=AvielSkrypnyk&layout=compact&langs_count=12&bg_color=24273a&title_color=f5a97f&text_color=cad3f5&hide_border=true
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Commit changes
         run: |
