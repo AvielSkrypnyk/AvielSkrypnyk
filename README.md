@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=AvielSkrypnyk&label=Profile%20views&color=f5a97f&style=flat-square" />
+</p>
+
 # Hi, I'm Aviel
 
 Originally from Ukraine 🇺🇦 → living in the Netherlands 🇳🇱 since 2022  
