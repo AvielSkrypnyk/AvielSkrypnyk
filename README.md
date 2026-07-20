@@ -4,34 +4,41 @@
 
 # Hi, I'm Aviel
 
-Originally from Ukraine 🇺🇦 → living in the Netherlands 🇳🇱 since 2022  
+Software Developer at Van Spaendonck Development
 
-I focus on Linux, systems, and clean setups — understanding how things work and improving them step by step.
+I enjoy building maintainable software with .NET and Angular, and I am always exploring software architecture, Linux, networking, and system design.
+
+Originally from Ukraine 🇺🇦, living in the Netherlands 🇳🇱 since 2022.
 
 ---
 
 ## About Me
-- Final-year MBO Software Development student  
-  → Secondary Vocational Education (VET), practical and career-focused  
+- Software Developer at Van Spaendonck Development
+- MBO Software Development graduate (EQF Level 4)
+- Currently studying HBO-ICT (part-time) and expanding my engineering fundamentals
 
-- Experience with:
-  - C#, ASP.NET Core  
-  - Angular, Blazor  
-  - Linux & CLI workflows  
+### Experience With
+- C#, ASP.NET Core, .NET
+- SQL and Database Design
+- Angular, Blazor
+- Git and CI/CD
+- Linux and CLI workflows
 
-- Interests:
-  - Backend development  
-  - System configuration & optimization  
-  - Home servers & networking  
+### Interests
+- Backend development
+- System configuration and optimization
+- Home servers and networking
+- Clean code and maintainable systems
+- Software architecture
 
 ---
 
 ## Environment & Workflow
-- Windows (primary at work), macOS (school & personal use)  
-- Linux (home servers & personal projects), Asahi Linux (Apple Silicon)  
+- Windows (primary at work), macOS (school and personal use)
+- Linux (home servers and personal projects), Asahi Linux (Apple Silicon)
 - Hyprland (Wayland), setup based on JaKooLit Hyprland-Dots (now maintained by [LinuxBeginnings](https://github.com/LinuxBeginnings))
-- CLI-first workflow, Git, terminal tooling  
-- Catppuccin (Latte & Macchiato) with Peach accent (`f5a97f`)  
+- CLI-first workflow, Git, terminal tooling
+- Catppuccin (Latte and Macchiato) with Peach accent (`#f5a97f`)
 
 ---
 
@@ -53,9 +60,9 @@ I focus on Linux, systems, and clean setups — understanding how things work an
 ---
 
 ## Personal
-Anime • coffee • matcha • tea  
+Anime • coffee • matcha • tea
 
 ---
 
 ## Philosophy
-Freedom in technology, deep understanding, clean design.
+Freedom in technology, deep understanding, and clean design.
